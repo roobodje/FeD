@@ -234,4 +234,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   5. https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp
 
 
-</details>
+</details># Fed2
+# Fed2
+# Fed2
+# Fed2
+# Fed2
+# Fed2
